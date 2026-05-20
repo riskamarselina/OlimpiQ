@@ -1,7 +1,7 @@
 """
 =============================================================
   SISTEM SELEKSI OLIMPIADE MATEMATIKA
-  File: app/app.py
+  File: app.py
   Deskripsi: Aplikasi Streamlit untuk prediksi kesiapan
              olimpiade matematika siswa berbasis ML
 =============================================================
