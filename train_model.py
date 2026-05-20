@@ -19,7 +19,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # ─── Konfigurasi ────────────────────────────────────────────
-DATA_PATH = "data/dataset.xlsx"
+DATA_PATH = 'dataset.xlsx'
 MODEL_DIR = "model"
 os.makedirs(MODEL_DIR, exist_ok=True)
 
